@@ -1,0 +1,5 @@
+# Ignore PyCharm settings
+.idea/
+
+# Ignore Python virtual environment
+.venv/
